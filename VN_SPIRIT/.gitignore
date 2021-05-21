@@ -1,0 +1,15 @@
+*.pt
+*.html
+*.log
+*.mat
+*.ckpt
+*.cfl
+*.hdr
+*.h5
+*.npy
+*.h5
+*err*
+*out*
+*check*
+*pyc*
+*txt*

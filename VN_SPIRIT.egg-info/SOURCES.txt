@@ -1,0 +1,16 @@
+setup.py
+VN_SPIRIT/__init__.py
+VN_SPIRIT.egg-info/PKG-INFO
+VN_SPIRIT.egg-info/SOURCES.txt
+VN_SPIRIT.egg-info/dependency_links.txt
+VN_SPIRIT.egg-info/top_level.txt
+VN_SPIRIT/script/__init__.py
+VN_SPIRIT/script/train_brain.py
+VN_SPIRIT/script/train_knee2d.py
+VN_SPIRIT/script/train_knee3d.py
+VN_SPIRIT/utils/__init__.py
+VN_SPIRIT/utils/cg_spirit_gpu.py
+VN_SPIRIT/utils/data_prep.py
+VN_SPIRIT/utils/dataset.py
+VN_SPIRIT/utils/network.py
+VN_SPIRIT/utils/subsample.py
